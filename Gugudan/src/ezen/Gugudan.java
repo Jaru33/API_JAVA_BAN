@@ -28,7 +28,7 @@ public class Gugudan {
 		System.out.println(2 * 9);
 		System.out.println(2 * 8);
 		System.out.println(2 * 9);
-		
+		System.out.println(2 * 8);
 		System.out.println(2 * 9);
 		
 	}
